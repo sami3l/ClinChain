@@ -1,0 +1,4 @@
+com\clinchain\backend\dto\UserDto.class
+com\clinchain\backend\model\User.class
+com\clinchain\backend\model\UserRole.class
+com\clinchain\backend\dto\LoginResponse.class
